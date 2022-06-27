@@ -1,0 +1,7 @@
+.nav {
+  align-items: center;
+  grid-gap: 15px;
+  display: flex;
+  height: 30px;
+  padding: 15px;
+}
