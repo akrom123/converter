@@ -13,7 +13,7 @@ export interface ConvertResponse {
     timestamp: number
   },
   query: {
-    amount: 25
+    amount: number
     from: string
     to: string
   },
